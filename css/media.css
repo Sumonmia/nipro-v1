@@ -140,6 +140,11 @@
     margin: 5px 0 0 0;
     line-height: 1;
 }
+/* contact us start */
+.contact{
+    padding: 0 15px;
+}
+
 /* form start */
 .cform {
     margin-top: 30px;
