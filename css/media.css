@@ -10,6 +10,9 @@
 .s_btn{
     padding: 0;
 }
+.mod_btn{
+    margin-top: 10px;
+}
 /* slider start */
 .s_item {
     margin: 80px 0;
@@ -31,7 +34,7 @@
     height: 30px;
 }
 .c_padd{
-    padding-bottom: 70px;
+    padding-bottom: 60px;
 }
 .c_title h1 {
     font-size: 25px;
@@ -53,14 +56,126 @@
     padding: 0;
 }
 /* recent work start */
-.recent_links a {
-    padding: 10px 10px;
+.recent_links ul li a {
+    padding: 0px 0px;
 }
 .recent_img {
     text-align: center;
 }
 .recent_img img {
-    width: 80%;
+    padding: 0 15px;
+}
+/* why choose nipro start */
+.nipro_padd {
+    padding-bottom: 30px;
+}
+.upper_item i {
+    font-size: 25px;
+}
+.nipro_h2 {
+    margin: -9px 0 0 -15px;
+    font-size: 17px;
+}
+.nipro_item p {
+    margin: 20px 0;
+}
+/* who work with us start */
+.p_text {
+    padding: 15px 0px 15px 10px;
+}
+.service_h2 {
+    font-size: 17px;
+}
+.p_text p {
+    padding-top: 10px;
+}
+.work_person {
+    margin-top: 40px;
+}
+/* best pricing start */
+.price_item {
+    margin-top: 50px;
+}
+/* nipro template start */
+.template {
+    margin-bottom: 60px;
+    text-align: center;
+    padding: 30px 0px;
+}
+.tem_right {
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+/* bottom slide start */
+.c_padd {
+    padding-bottom: 60px!important;
+}
+.bottom_slide {
+    text-align: center;
+    padding: 0px 15px;
+}
+.single_slide {
+    padding: 10px 10px;
+}
+.btslide_img {
+    padding-top: 20px;
+}
+.btslide_img i {
+    top: 20%;
+    right: 65%;
+    font-size: 25px;
+}
+.btslide_text h1 {
+    padding-top: 10px;
+}
+.btslide_text h2 {
+    margin: 5px 0px;
+    font-size: 16px;
+}
+.btslide_text h3 {
+    font-size: 16px;
+}
+.btslide_text p {
+    margin: 5px 0 0 0;
+    line-height: 1;
+}
+/* form start */
+.cform {
+    margin-top: 30px;
+}
+.contact_items h1 {
+    font-size: 25px;
+    padding: 0 0px;
+}
+.name input {
+    width: 100%;
+    padding: 15px;
+}
+.name input:last-child {
+    margin-left: 0;
+}
+.one {
+    margin: 25px 0 35px;
+    padding-left: 15px;
+}
+.two {
+    padding-bottom: 30px;
+    padding-left: 15px;
+}
+.form_btn {
+    margin: 40px 0;
+}
+/* footer start */
+.fbottom {
+    text-align: center;
+    line-height: 2;
+}
+.c_padd {
+    padding-bottom: 60px!important;
+}
+.fbottom_left {
+    margin-bottom: 10px;
 }
 
 }
@@ -77,7 +192,7 @@
     padding: 0;
 }
 .c_padd {
-    padding-bottom: 80px;
+    padding-bottom: 60px;
 }
 /* slider start */
 .s_item {
@@ -116,15 +231,111 @@
     padding: 0;
 }
 /* recent work start */
-.recent_links a {
+.recent_links ul li a {
     padding: 15px 5px;
 }
 .recent_img {
     text-align: center;
 }
 .recent_img img {
-    width: 60%;
+    width: 100%;
 }
+/* why choose nipro start */
+.upper_item i {
+    font-size: 25px;
+}
+.nipro_h2 {
+    margin: -9px 0 0 -15px;
+    font-size: 17px;
+}
+.nipro_item p {
+    margin: 30px 0;
+}
+/* who work with us start */
+.p_text {
+    padding: 15px 0px 15px 10px;
+}
+.service_h2 {
+    font-size: 17px;
+}
+.p_text p {
+    padding-top: 10px;
+}
+.work_person {
+    margin-top: 60px;
+}
+/* best pricing start */
+.price_item {
+    margin-top: 70px;
+}
+/* nipro template start */
+.template {
+    padding: 30px 0px;
+}
+.tem_right a {
+    padding: 15px 10px 15px 10px;
+}
+.tem_right a i {
+    padding-left: 0px;
+}
+/* bottom slide start */
+.c_padd {
+    padding-bottom: 60px!important;
+}
+.bottom_slide {
+    text-align: center;
+    padding: 0px 40px;
+}
+.single_slide {
+    padding: 40px 10px;
+}
+.btslide_img {
+    padding-top: 20px;
+}
+.btslide_img i {
+    top: 20%;
+    right: 65%;
+    font-size: 25px;
+}
+.btslide_text h1 {
+    padding-top: 10px;
+}
+.btslide_text h2 {
+    margin: 5px 0px;
+    font-size: 16px;
+}
+.btslide_text h3 {
+    font-size: 16px;
+}
+.btslide_text p {
+    margin: 5px 0 0 0;
+    line-height: 1;
+}
+/* form start */
+.cform {
+    margin-top: 30px;
+}
+.name input {
+    width: 47%;
+}
+.one {
+    margin: 25px 0 35px;
+}
+.two {
+    padding-bottom: 30px;
+}
+.form_btn {
+    margin: 40px 0;
+}
+/* footer start */
+.fbottom {
+    text-align: center;
+    line-height: 2;
+}
+.c_padd {
+    padding-bottom: 60px!important;
+}
+
 }
 
  /* Medium devices (tablets, 768px and up) */
@@ -158,6 +369,55 @@
 .about_right {
     padding: 0;
 }
+/* who work with us start */
+.p_text {
+    padding: 15px 0px 15px 10px;
+}
+.service_h2 {
+    font-size: 17px;
+}
+.p_text p {
+    padding-top: 10px;
+}
+.work_person {
+    margin-top: 60px;
+}
+/* best pricing start */
+.price_item {
+    margin-top: 70px;
+}
+/* bottom slide start */
+.single_slide {
+    padding: 40px 10px;
+}
+.btslide_img {
+    padding-top: 30px;
+}
+.btslide_img i {
+    top: 25%;
+    right: 75%;
+    font-size: 25px;
+}
+.btslide_text h2 {
+    margin: 5px 0px;
+    font-size: 16px;
+}
+.btslide_text h3 {
+    font-size: 16px;
+}
+.btslide_text p {
+    margin: 5px 0 0 0;
+    line-height: 1;
+}
+/* form start */
+.name input {
+    width: 47%;
+}
+/* footer start */
+.fbottom {
+    text-align: center;
+    line-height: 2;
+}
 }
 
  /* Large devices (desktops, 992px and up) */
@@ -182,6 +442,25 @@
         margin: 20px 0 40px;
         font-size: 14px;
 
+}
+
+/* who work with us start */
+.p_text {
+    padding: 15px 0px 15px 10px;
+}
+.service_h2 {
+    font-size: 17px;
+}
+.p_text p {
+    padding-top: 10px;
+}
+/* best pricing start */
+.price_inneritem {
+    padding: 50px 15px;
+}
+/* bottom slide start */
+.btslide_text p {
+    line-height: 1;
 }
 
 }
